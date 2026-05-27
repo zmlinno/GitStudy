@@ -1,0 +1,51 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor",
+  "elements": [
+    {
+      "id": "KIujyCx9PzcmzEZq3m0Hx",
+      "type": "text",
+      "x": 52.4140625,
+      "y": 230.8125,
+      "width": 610.0599365234375,
+      "height": 250,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a2",
+      "roundness": null,
+      "seed": 1339188623,
+      "version": 465,
+      "versionNonce": 215861295,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1779890400226,
+      "link": null,
+      "locked": false,
+      "text": "1. 关于即使换了操作系统也一样，比如说现在是Win，换成Mac之后，\n\n也是找到本地仓库目录，进入目录之后，\n\ngit status - git add - git commit - git push\n\n但是我们要注意的是\n           \n     1.  这台Mac上是否已经有git\n     2. 这台Mac上是否已经连接过你的GitHub账号",
+      "fontSize": 20,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "1. 关于即使换了操作系统也一样，比如说现在是Win，换成Mac之后，\n\n也是找到本地仓库目录，进入目录之后，\n\ngit status - git add - git commit - git push\n\n但是我们要注意的是\n           \n     1.  这台Mac上是否已经有git\n     2. 这台Mac上是否已经连接过你的GitHub账号",
+      "autoResize": true,
+      "lineHeight": 1.25
+    }
+  ],
+  "appState": {
+    "gridSize": 20,
+    "gridStep": 5,
+    "gridModeEnabled": false,
+    "viewBackgroundColor": "#ffffff"
+  },
+  "files": {}
+}
